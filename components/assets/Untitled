@@ -1,0 +1,15 @@
+import tarotImage from "@/components/assets/tarot.jpg";
+
+<div className="relative overflow-hidden rounded-2xl border border-border/60 bg-card shadow-[0_24px_80px_-24px_rgba(0,0,0,0.15)]">
+  <Image
+    src={tarotImage}
+    alt="Өдрийн тэмдэглэл хөтлөж буй хүн, ажил төлөвлөлт"
+    width={800}
+    height={1000}
+    quality={85}
+    className="h-auto w-full object-cover"
+    sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 600px"
+    priority
+    fetchPriority="high"
+  />
+</div>
