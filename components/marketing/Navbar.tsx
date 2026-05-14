@@ -47,7 +47,7 @@ export default function Navbar() {
           className="group flex shrink-0 items-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
         >
           <span className="font-display text-lg font-medium tracking-tight text-foreground md:text-xl">
-            Tsogoo's site
+            Tsogoo&apos;s site
           </span>
         </Link>
 
