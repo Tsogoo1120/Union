@@ -1,8 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, Calendar } from "lucide-react";
-import { HERO_IMAGE_BLUR_DATA_URL } from "./blur-data-urls";
-import { HERO_IMAGE_SRC } from "./image-assets";
 import { Reveal } from "./reveal";
 import tarotImage from "@/components/assets/tarot.jpg";
 

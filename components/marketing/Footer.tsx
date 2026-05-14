@@ -22,7 +22,7 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-3 lg:gap-12">
           <div className="max-w-sm">
             <p className="font-display text-lg font-medium text-foreground">
-              Tsogoo's site
+              Tsogoo&apos;s site
             </p>
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
               Сэтгэл зүйн агуулга, олон нийтийн уншлага, видео хичээл — таны өдөр
